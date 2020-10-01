@@ -1,4 +1,4 @@
 #climate app
-use weather api 
+use weather API
 you can run this on android studio /vs code .
 min 8gb ram required.
